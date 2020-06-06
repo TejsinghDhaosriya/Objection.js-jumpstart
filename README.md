@@ -1,0 +1,1 @@
+"# Objection.js-jumpstart" 
